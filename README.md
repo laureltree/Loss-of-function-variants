@@ -11,3 +11,5 @@ In more detail, this repo contains:
 1) Overview of what data and software access is needed to perform the analysis
 2) Example code to filter variant data and run VEP
 3) Steps on how to proceed once candidate variants have been identified
+
+Example data can be provided upon request.
